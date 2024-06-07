@@ -8,8 +8,8 @@ logo: /assets/img/Profile_Picture.jpg
 theme: jekyll-theme-slate
 
 social_links:
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jethro-elijah-bolima" }
+  - { platform: github,         user_url: "https://github.com/jetbolima" }
   
 footer_text: >
   This portfolio is maintained by [Jethro Elijah Bolima](https://github.com/jetbolima)
