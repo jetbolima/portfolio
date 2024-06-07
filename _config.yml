@@ -1,16 +1,20 @@
 title: Jethro Elijah Bolima
-author: jetbolima
+first_name: Jethro Elijah
+middle_name: F.
+last_name: Bolima
 
 description: An aspiring data analyst
 logo: /assets/img/Profile Picture.jpg
 theme: jekyll-theme-slate
 
-social-network-links:
-  email: jetbolima@gmail.com
-  linkedin: jethro-elijah-bolima
-  github: jetbolima
-  tableau: jethro.elijah.bolima
-  kaggle: jethroelijahbolima
+email: jetbolima@gmail.com
+linkedin_username: jethro-elijah-bolima
+github_username: jetbolima
+social: true
   
-  
+footer_text: >
+  This portfolio is maintained by [Jethro Elijah Bolima](https://github.com/jetbolima)
+  Published with [Github Pages](https://pages.github.com/)
+
+   
 
