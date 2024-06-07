@@ -38,5 +38,28 @@
 - Handled hard contracts which required keen attention to detail and proficiency in Excel.
 
 ## Projects
-### COVID Cases in the Philippines
-  
+### COVID Cases in the Philippines 
+[![Github Badge](
+https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jetbolima/COVID-Cases-in-the-Philippines)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red)](https://public.tableau.com/app/profile/jethro.elijah.bolima/viz/P1_COVIDCasesinthePhilippinesDataDropfromNovember112022/MonthlyTimelineofCOVIDCases-D)
+
+Timeline and Health Status of COVID cases in the Philippines is created from the [November 26, 2022 data drop](https://data.gov.ph/index/public/dataset/COVID-19%20DOH%20Data%20Drop%20%28November%2026,%202022%29/vuo95enr-tttu-24cu-3x70-agzd8kcvhkop) by the Department of Health.
+
+![COVID Cases Viz Sample](/assets/img/COVID_Cases_in_the_Philippines.png)
+
+**PostgreSQL** is used for data cleaning and exploratory data analysis and **Tableau** is used for data visualization. The process and insights are all stored on the Github link above.
+
+### Visitor Arrivals to the Philippines 2008-2021
+[![Github Badge](
+https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jetbolima/Visitor-Arrivals-to-the-Philippines-2008-2021)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red)](https://public.tableau.com/app/profile/jethro.elijah.bolima/viz/P2_VisitorArrivalstothePhilippines2008-2021/VisitorArrvialstothePhilippines)
+
+Data for this project was taken from a [Department of Tourism dataset](https://data.gov.ph/index/public/dataset/Tourism%20Demand%20Statistics%20on%20Visitor%20Arrivals%20to%20the%20Philippines/pqj5mu1b-5tsg-7dcb-oj3y-s1jcu1ys2h3a). 
+
+![Visitor Arrivals Viz Sample](/assets/img/Visitor_Arrivals_to_the_Philippines.png)
+
+**Excel** and **Power Query** are used for data cleaning and **Tableau** is used for data visualization and exploratory data analysis. The process and insights are all stored on the Github link above.
+
+
+## Publications
+Bolima, J. E., & Fuentes, K. B. (2023). First and Third Isomorphism Theorems for the Dual B-Algebra. European Journal of Pure and Applied Mathematics, 16(1), 577-586.
