@@ -1,4 +1,16 @@
 title: Jethro Elijah Bolima
+author: jetbolima
+
 description: An aspiring data analyst
-logo: /assets/img/Profile Picture.jpg
+logo: assets/img/Profile Picture.jpg
 theme: jekyll-theme-slate
+
+social-network-links:
+  email: jetbolima@gmail.com
+  linkedin: jethro-elijah-bolima
+  github: jetbolima
+  tableau: jethro.elijah.bolima
+  kaggle: jethroelijahbolima
+  
+  
+
