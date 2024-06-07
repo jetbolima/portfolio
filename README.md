@@ -8,7 +8,7 @@
 
 ## Certificates
 **[Tableau Advanced: Master Tableau in Data Science](https://www.udemy.com/certificate/UC-624581a5-87d9-4bd2-b645-65d643b3204f/)**
-- includes Blending, Level of Detail Calculations, spatial analysis, data modeling, data visualization etiquettes
+- includes data blending, Level of Detail Calculations, spatial analysis, data modeling, data visualization etiquettes
 
 **[Advanced SQL Bootcamp](https://udemy.com/certificate/UC-3270883f-dbeb-48b1-bf46-9765a077fa3a/)**
 - includes CTEs, window functions, table transactions, views, stored procedures
