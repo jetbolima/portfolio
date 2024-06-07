@@ -7,9 +7,25 @@ description: An aspiring data analyst
 logo: /assets/img/Profile_Picture.jpg
 theme: jekyll-theme-slate
 
-social_links:
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jethro-elijah-bolima" }
-  - { platform: github,         user_url: "https://github.com/jetbolima" }
+title: Jethro Elijah Bolima
+first_name: Jethro Elijah
+middle_name: F.
+last_name: Bolima
+
+description: An aspiring data analyst
+logo: /assets/img/Profile_Picture.jpg
+theme: jekyll-theme-slate
+
+email: jetbolima@gmail.com
+linkedin_username: jethro-elijah-bolima
+github_username: jetbolima
+  
+footer_text: >
+  This portfolio is maintained by [Jethro Elijah Bolima](https://github.com/jetbolima)
+  Published with [Github Pages](https://pages.github.com/)
+
+   
+
   
 footer_text: >
   This portfolio is maintained by [Jethro Elijah Bolima](https://github.com/jetbolima)
