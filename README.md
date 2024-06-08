@@ -51,6 +51,8 @@ Timeline and Health Status of COVID cases in the Philippines is created from the
 
 **PostgreSQL** is used for data cleaning and exploratory data analysis and **Tableau** is used for data visualization. The process and insights are all stored on the Github link above.
 
+*Mobile version of the Tableau viz to be updated soon.
+
 ### Visitor Arrivals to the Philippines 2008-2021
 [![Github Badge](
 https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jetbolima/Visitor-Arrivals-to-the-Philippines-2008-2021)
@@ -61,6 +63,8 @@ Data for this project was taken from a [Department of Tourism dataset](https://d
 ![Visitor Arrivals Viz Sample](/assets/img/Visitor_Arrivals_to_the_Philippines.png)
 
 **Excel** and **Power Query** are used for data cleaning and **Tableau** is used for data visualization and exploratory data analysis. The process and insights are all stored on the Github link above.
+
+*Mobile version of the Tableau viz to be updated soon.
 
 ## Talks and Achievements
 - Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](https://www.mathsociety.ph/index.php?option=com_content&view=article&id=47&Itemid=170) last December 2022.  
