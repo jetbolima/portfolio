@@ -2,7 +2,7 @@
 #### Technical Skills: SQL, Tableau, Python, Power BI, R
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/)
-![Gmail Badge](https://img.shields.io/badge/jetbolima@gmail.com-red?style=flat&logo=gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/jetbolima@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jetbolima@gmail.com)
 
 ## Education
 - M.S., Mathematics | University of San Carlos at Cebu (_June 2023_)
