@@ -63,7 +63,7 @@ Data for this project was taken from a [Department of Tourism dataset](https://d
 **Excel** and **Power Query** are used for data cleaning and **Tableau** is used for data visualization and exploratory data analysis. The process and insights are all stored on the Github link above.
 
 ## Talks and Achievements
-- Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](/assets/files/MSP_Reg7_Certificate_of_Recognition) last December 2022.  
+- Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](https://www.mathsociety.ph/index.php?option=com_content&view=article&id=47&Itemid=170) last December 2022.  
 - Won [3rd place](https://asthrdp.com/awards/#uagb-tabs__tab1) at the 11th ASTHRDP Graduate Scholars Conference, hosted by Department of Science and Technology, in the Poster Presentation - Mathematical and Computational Sciences Category.
 - Passed the Career Service Professional Examination with a rating of 86.77 conducted by the Civil Service Commission.
 
