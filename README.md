@@ -21,7 +21,7 @@
 ## Talks and Achievements
 - Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](https://www.mathsociety.ph/index.php?option=com_content&view=article&id=47&Itemid=170) last December 2022.  
 - Won [3rd place](https://uplb.edu.ph/all-news/uplb-hosts-graduate-scholars-conference-for-st-hrd-program/) at the 11th ASTHRDP Graduate Scholars Conference, hosted by Department of Science and Technology, in the Poster Presentation - Mathematical and Computational Sciences Category.
-- Acted as a Resource Person for the Roll-Out Training for Data Quality Assurance using Python, Social Welfare Development Indicator Conference, and Boosting Office Productivity using Excel and Google Sheets, for DSWD Region 7
+- Acted as a Resource Person for the ![Roll-Out Training for Data Quality Assurance using Python](/assets/img/Data_Quality_Python_Pic.jpg), Social Welfare Development Indicator Conference, and Boosting Office Productivity using Excel and Google Sheets, for DSWD Region 7
 - Produced multiple dashboards for easier visualization of data using Looker Studio; One of the developers of the Regional 4Ps Dashboard
 - Awarded the "Rookie of the Year" Award for 4Ps Region 7
 - Passed the Career Service Professional Examination with a rating of 86.77 conducted by the Civil Service Commission.
