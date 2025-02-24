@@ -4,9 +4,27 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-elijah-bolima/)
 [![Gmail Badge](https://img.shields.io/badge/jetbolima@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jetbolima@gmail.com)
 
+## Work Experience
+**Regional Risk Management and Quality Assurance Officer @ DSWD Field Office 7 (_September 2024 - Current_)**
+- Conducts review and analysis of program data and processes to identify potential sources of errors
+-	Perform root cause analysis to identify the underlying causes of errors, ensure adequacy of internal systems, and to recommend measures to prevent recurrence of errors
+
+**Business Support Analyst @ Catapult powered by Magaya (_August 2019 - September 2021_)**
+- Analyzed and maintained competitive freight rates (ocean and ground) including surcharges to determine the most economical modes of moving goods from point A to point B.
+- Placed in the best team in our company for taking charge of specific clients.
+- Handled hard contracts which required keen attention to detail and proficiency in Excel.
+
 ## Education
 - M.S., Mathematics | University of San Carlos at Cebu (_June 2023_)
 - B.S., Mathematics | University of San Carlos at Cebu (_May 2019_)
+
+## Talks and Achievements
+- Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](https://www.mathsociety.ph/index.php?option=com_content&view=article&id=47&Itemid=170) last December 2022.  
+- Won [3rd place](https://uplb.edu.ph/all-news/uplb-hosts-graduate-scholars-conference-for-st-hrd-program/) at the 11th ASTHRDP Graduate Scholars Conference, hosted by Department of Science and Technology, in the Poster Presentation - Mathematical and Computational Sciences Category.
+- Acted as a Resource Person for the Roll-Out Training for Data Quality Assurance using Python, Social Welfare Development Indicator Conference, and Boosting Office Productivity using Excel and Google Sheets, for DSWD Region 7
+- Produced multiple dashboards for easier visualization of data using Looker Studio; One of the developers of the Regional 4Ps Dashboard
+- Awarded the "Rookie of the Year" Award for 4Ps Region 7
+- Passed the Career Service Professional Examination with a rating of 86.77 conducted by the Civil Service Commission.
 
 ## Certificates
 **[Tableau Advanced: Master Tableau in Data Science](https://www.udemy.com/certificate/UC-624581a5-87d9-4bd2-b645-65d643b3204f/)**
@@ -32,12 +50,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/jethroelijahbolima) for my R and Python Projects
 
 [![Tableau Badge](https://img.shields.io/badge/Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=red)](https://public.tableau.com/app/profile/jethro.elijah.bolima/vizzes) for my Tableau Visualizations
-
-## Work Experience
-**Business Support Analyst @ Catapult powered by Magaya (_August 2019 - September 2021_)**
-- Analyzed and maintained competitive freight rates (ocean and ground) including surcharges to determine the most economical modes of moving goods from point A to point B.
-- Placed in the best team in our company for taking charge of specific clients.
-- Handled hard contracts which required keen attention to detail and proficiency in Excel.
 
 ## Projects
 ### COVID Cases in the Philippines 
@@ -65,12 +77,6 @@ Data for this project was taken from a [Department of Tourism dataset](https://d
 **Excel** and **Power Query** are used for data cleaning and **Tableau** is used for data visualization and exploratory data analysis. The process and insights are all stored on the Github link above.
 
 *Mobile version of the Tableau viz to be updated soon.
-
-## Talks and Achievements
-- Presented my research which was the precursor to my thesis at the [Mathematical Society of the Philippines Region VII Research Congress and Convention](https://www.mathsociety.ph/index.php?option=com_content&view=article&id=47&Itemid=170) last December 2022.  
-- Won [3rd place](https://asthrdp.com/awards/#uagb-tabs__tab1) at the 11th ASTHRDP Graduate Scholars Conference, hosted by Department of Science and Technology, in the Poster Presentation - Mathematical and Computational Sciences Category.
-- Passed the Career Service Professional Examination with a rating of 86.77 conducted by the Civil Service Commission.
-
 
 ## Publications
 Bolima, J. E., & Fuentes, K. B. (2023). First and Third Isomorphism Theorems for the Dual B-Algebra. European Journal of Pure and Applied Mathematics, 16(1), 577-586.
