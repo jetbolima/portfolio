@@ -26,7 +26,7 @@
 <p align="center" style="text-align:center;">
 <img src="/assets/img/Data_Quality_Python_Pic.png" alt="Roll-Out Training for Data Quality Assurance using Python" width="300" height="200"/>
 
-                                  Roll-Out Training for Data Quality Assurance using Python, Oct 2024
+
 
 - One of the developers of the Regional 4Ps Dashboard
 - Awarded the "Rookie of the Year" Award for 4Ps Region 7
