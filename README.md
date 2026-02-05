@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/jetbolima@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jetbolima@gmail.com)
 
 ## Work Experience
-**Regional Risk Management and Quality Assurance Officer @ DSWD Field Office 7 (_September 2024 - Current_)**
+**Regional Monitoring and Evaluation Officer @ DSWD Field Office 7 (_September 2024 - January 2026_)**
 - Conducts review and analysis of program data and processes to identify potential sources of errors
 -	Perform root cause analysis to identify the underlying causes of errors, ensure adequacy of internal systems, and to recommend measures to prevent recurrence of errors
 
